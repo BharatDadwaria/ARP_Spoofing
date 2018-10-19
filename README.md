@@ -31,10 +31,26 @@ ARP Before spoofing
 
 ![ARP](https://raw.githubusercontent.com/BharatDadwaria/ARP_Spoofing/master/Screenshots/arp%20cache%20after%20spoofing%20edit.jpg)
 
+IP-Forwarding & Enable
+
+![Spoofing](https://raw.githubusercontent.com/BharatDadwaria/ARP_SPoofing/master/Screenshots/ip_forward.png)
+
 Spoofing the ARP cache
 
 ![Spoofing](https://raw.githubusercontent.com/BharatDadwaria/ARP_SPoofing/master/Screenshots/arpspoof2%20edit.png)
 
-MITIM
+
+
+# Men-in=the-middle-Attack
+
+Remote Captures
+
+![Spoofing](https://raw.githubusercontent.com/BharatDadwaria/ARP_SPoofing/master/Screenshots/ettercap%20log'%20edit.png)
+
+
 ![the](https://raw.githubusercontent.com/BharatDadwaria/ARP_SPoofing/master/Screenshots/capture%20screenshot%20edit.png)
+
+
+![Spoofing](https://raw.githubusercontent.com/BharatDadwaria/ARP_SPoofing/master/Screenshots/ettercap%20strts%20edit.png)
+
 
