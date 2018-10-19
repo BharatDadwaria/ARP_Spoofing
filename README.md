@@ -24,3 +24,17 @@ network, effectively allowing for a man_in_the_middle attack.
 This project's goal is to specify what are the vulnerabilities of the ARP protocol and
 what kind of Malicias Attacks can be done using the vulnerability and performing
 Men_in_the_middle Attack using ARP Spoofing.
+
+# Screenshots
+
+ARP Before spoofing
+
+![ARP Before spoofing](https://raw.githubusercontent.com/BharatDadwaria/ARP_Spoofing/Screenshots/master/FrontPage.jpg)
+
+Spoofing the ARP cache
+
+![Spoofing the ARP cache](https://raw.githubusercontent.com/BharatDadwaria/ARP_SPoofing/Screenshots/master/arpspoof2 edit.png)
+
+MITIM
+[Spoofing the ARP cache](https://raw.githubusercontent.com/BharatDadwaria/ARP_SPoofing/Screenshots/master/capture screenshot edit.png)
+
