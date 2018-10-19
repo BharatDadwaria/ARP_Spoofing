@@ -29,12 +29,12 @@ Men_in_the_middle Attack using ARP Spoofing.
 
 ARP Before spoofing
 
-![ARP Before spoofing](https://raw.githubusercontent.com/BharatDadwaria/ARP_Spoofing/master/Screenshots/arp cache after spoofing edit.jpg)
+![ARP](https://raw.githubusercontent.com/BharatDadwaria/ARP_Spoofing/master/Screenshots/arp%20cache%20after%20spoofing%20edit.jpg)
 
 Spoofing the ARP cache
 
-![Spoofing the ARP cache](https://raw.githubusercontent.com/BharatDadwaria/ARP_SPoofing/Screenshots/master/arpspoof2 edit.png)
+![Spoofing](https://raw.githubusercontent.com/BharatDadwaria/ARP_SPoofing/master/Screenshots/arpspoof2%20edit.png)
 
 MITIM
-[Spoofing the ARP cache](https://raw.githubusercontent.com/BharatDadwaria/ARP_SPoofing/Screenshots/master/capture screenshot edit.png)
+![the](https://raw.githubusercontent.com/BharatDadwaria/ARP_SPoofing/master/Screenshots/capture%20screenshot%20edit.png)
 
