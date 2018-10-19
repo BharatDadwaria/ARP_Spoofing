@@ -12,6 +12,7 @@ of addresses: the 32- bit Internet Protocol (IP) address and the 48-bit MAC addr
 that the data link layer uses . In shorts the ARP protocol is used to mapping IP
 Address to MAC (Physical) address dyamically.
 
+
 Address Resolution Protocol cache poisoning or spoofing is the act, by a malicious
 host on the LAN, of introducing a spurious IP-to-Ethernet address mapping in
 another host’s ARP cache. The result of ARP cache poisoning is that the IP traffic
